@@ -11,6 +11,7 @@ Elasticsearch, Logstash, Kibana. Cool search, analytics, data mining and more...
 
 - Elasticsearch Home: https://www.elastic.co/
 - Elasticsearch Download: https://www.elastic.co/downloads/elasticsearch
+- Basic configuration of Elastic: https://www.elastic.co/guide/en/elasticsearch/reference/current/setup-configuration.html
 - Logstash Download: https://www.elastic.co/downloads/logstash
 - Kibana Download: https://www.elastic.co/downloads/kibana
 - Elastic Search API: https://www.elastic.co/guide/en/elasticsearch/reference/current/search-search.html
